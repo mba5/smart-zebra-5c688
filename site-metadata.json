@@ -7,7 +7,8 @@
             {
                 "label": "Features",
                 "url": "/features",
-                "style": "link"
+                "style": "link",
+                "no_follow": true
             },
             {
                 "label": "Blog",
